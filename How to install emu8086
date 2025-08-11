@@ -1,0 +1,8 @@
+$ sudo -i
+# apt update
+# apt install wine
+# apt install wine-development
+
+// Go to Source file //
+
+# wine setup.exe
